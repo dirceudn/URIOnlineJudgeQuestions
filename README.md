@@ -1,4 +1,2 @@
-Alterações no código 
-HUUSHUSHUSHSUHSUHSUHSHSUHSUHSUSHUSHUSHUSHUSH
-jasndkjasndjasndaksjdn
+
 # URIOnlineJudgeQuestions
